@@ -9,6 +9,8 @@ code my_awesome_project/.
 poweroff: Shutdown
 reboot: Restart
 
+Type "code ." in terminal to open the current directory in VS-Code
+
 Git Cheatsheat:
 
 Commands related to a remote repository:
